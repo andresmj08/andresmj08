@@ -43,7 +43,6 @@ Desarrollador apasionado por la tecnología, la seguridad informática y la prog
 
 ## 📫 Contacto
 
-- Email: tu-email@ejemplo.com
 - [LinkedIn](https://linkedin.com/in/andresmj08)
 
 ---
