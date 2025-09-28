@@ -16,9 +16,7 @@ Desarrollador apasionado por la tecnología, la seguridad informática y la prog
 
 ## 📌 Proyectos destacados
 
-- [validator-credit-rules](https://github.com/andresmj08/validator-credit-rules): Validaciones de reglas para créditos financieros.
 - [cryptography-uniminuto-andresmj08](https://github.com/andresmj08/cryptography-uniminuto-andresmj08): Ejercicios y ejemplos de criptografía.
-- [process-bugs-fidu](https://github.com/andresmj08/process-bugs-fidu): Automatización y seguimiento de bugs en procesos.
 - [python-test-sonar](https://github.com/andresmj08/python-test-sonar): Pruebas de integración con SonarQube en Python.
 
 ---
